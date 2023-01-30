@@ -7,6 +7,6 @@ This is an Android and desktop endless runner game that incorporates various ene
 # Initial starting screen showing instructions for gameplay
 ![image](https://user-images.githubusercontent.com/85457475/215371182-fae1cd8d-767e-4d61-90ac-79d2521051c4.png)
 
-#Gameplay
+# Gameplay
 ![image](https://user-images.githubusercontent.com/85457475/215371303-c80bda8a-d05b-4f29-932c-e61e19577b14.png)
 
